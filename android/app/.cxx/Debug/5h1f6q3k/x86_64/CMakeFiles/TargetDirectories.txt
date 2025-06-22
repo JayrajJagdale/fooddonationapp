@@ -1,0 +1,2 @@
+D:/food_donation_app/food_donation_app/android/app/.cxx/Debug/5h1f6q3k/x86_64/CMakeFiles/edit_cache.dir
+D:/food_donation_app/food_donation_app/android/app/.cxx/Debug/5h1f6q3k/x86_64/CMakeFiles/rebuild_cache.dir
